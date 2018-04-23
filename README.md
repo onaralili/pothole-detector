@@ -21,5 +21,9 @@ After creating account for the online IDE on the website follow following steps:
 ## Notes
 The real-time clock is using unix time, you can convert time to the unix time using [this website](https://www.epochconverter.com/) and set the time to desired time by changing following value ``set_time(1524497278);`` on the main.cpp file
 
+## References
+https://os.mbed.com/teams/ST/code/FreeFall_IKS01A2/file/3aa150c1a624/X_NUCLEO_IKS01A2.lib/
+
+
 
 
