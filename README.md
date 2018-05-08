@@ -6,7 +6,7 @@ The project is forked from mbed os examples and modified.
  The application uses [X-NUCLEO-IKS01A2](http://www.st.com/en/ecosystems/x-nucleo-iks01a2.html)'s built-in [LSM6DSL](http://www.st.com/en/mems-and-sensors/lsm6dsl.html) accelerometer sensor on top of the [NUCLEO-F401RE](http://www.st.com/en/ecosystems/x-nucleo-iks01a2.html) board.
 
 ## Dependencies
-The example uses [The official mbed C/C++ SDK](https://os.mbed.com/users/mbed_official/code/mbed/) and the [library](https://os.mbed.com/teams/ST/code/X_NUCLEO_IKS01A2/) for X-NUCLEO-IKS01A2.
+The example uses [The official mbed C/C++ SDK](https://os.mbed.com/users/mbed_official/code/mbed/) and the [library](https://os.mbed.com/teams/ST/code/X_NUCLEO_IKS01A2/) for  X-NUCLEO-IKS01A2 (MEMS Inertial & Environmental Sensors) Expansion Board.
 
 ## Build
 The easiest way is to use online IDE provided by Mbed : https://os.mbed.com/. 
